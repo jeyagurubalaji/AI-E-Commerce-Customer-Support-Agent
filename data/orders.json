@@ -1,0 +1,90 @@
+[
+  {
+    "order_id": "ORD1001",
+    "customer_name": "Demo Customer",
+    "product": "SoundMax Wireless Headphones",
+    "order_date": "2026-09-05",
+    "status": "Shipped",
+    "expected_delivery": "2026-09-12",
+    "tracking_status": "In transit at regional hub",
+    "amount": 2499,
+    "return_eligible": true
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_name": "Demo Customer",
+    "product": "AuraTune ANC Pro Headphones",
+    "order_date": "2026-09-01",
+    "status": "Delivered",
+    "expected_delivery": "2026-09-04",
+    "tracking_status": "Delivered to customer address",
+    "amount": 2899,
+    "return_eligible": true
+  },
+  {
+    "order_id": "ORD1003",
+    "customer_name": "Demo Customer",
+    "product": "Precision Glide Wireless Mouse",
+    "order_date": "2026-08-10",
+    "status": "Delivered",
+    "expected_delivery": "2026-08-14",
+    "tracking_status": "Delivered to front door",
+    "amount": 1299,
+    "return_eligible": false
+  },
+  {
+    "order_id": "ORD1004",
+    "customer_name": "Demo Customer",
+    "product": "ProBook X15 Laptop",
+    "order_date": "2026-09-02",
+    "status": "Delayed",
+    "expected_delivery": "2026-09-08",
+    "tracking_status": "Carrier delayed due to transit route disruption",
+    "amount": 58999,
+    "return_eligible": false
+  },
+  {
+    "order_id": "ORD1005",
+    "customer_name": "Demo Customer",
+    "product": "Mechanical Pro Keyboard RGB",
+    "order_date": "2026-09-08",
+    "status": "Processing",
+    "expected_delivery": "2026-09-15",
+    "tracking_status": "Order verified, awaiting courier pickup",
+    "amount": 2999,
+    "return_eligible": false
+  },
+  {
+    "order_id": "ORD1006",
+    "customer_name": "Demo Customer",
+    "product": "FitPulse Smartwatch 2",
+    "order_date": "2026-09-06",
+    "status": "Out for Delivery",
+    "expected_delivery": "2026-09-10",
+    "tracking_status": "With courier agent for delivery today",
+    "amount": 3499,
+    "return_eligible": false
+  },
+  {
+    "order_id": "ORD1007",
+    "customer_name": "Demo Customer",
+    "product": "Galaxy S24 Ultra Phone",
+    "order_date": "2026-09-03",
+    "status": "Delivered",
+    "expected_delivery": "2026-09-06",
+    "tracking_status": "Delivered and signed by recipient",
+    "amount": 104999,
+    "return_eligible": true
+  },
+  {
+    "order_id": "ORD1008",
+    "customer_name": "Demo Customer",
+    "product": "TabPro 11 OLED Tablet",
+    "order_date": "2026-09-07",
+    "status": "Shipped",
+    "expected_delivery": "2026-09-13",
+    "tracking_status": "In transit to delivery destination",
+    "amount": 32999,
+    "return_eligible": true
+  }
+]
