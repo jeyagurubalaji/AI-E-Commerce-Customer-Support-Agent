@@ -1,0 +1,198 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "SoundMax Wireless Headphones",
+    "category": "headphones",
+    "price": 2499,
+    "brand": "SoundMax",
+    "description": "Wireless over-ear headphones with deep bass and high comfort.",
+    "features": [
+      "Bluetooth 5.3",
+      "40-hour battery life",
+      "Active noise reduction",
+      "Foldable design with cushioned earcups"
+    ],
+    "stock": 25,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P1002",
+    "name": "AuraTune ANC Pro Headphones",
+    "category": "headphones",
+    "price": 2899,
+    "brand": "AuraTune",
+    "description": "Premium wireless over-ear headphones featuring Hybrid Active Noise Cancellation.",
+    "features": [
+      "Hybrid ANC up to 35dB",
+      "Transparency Mode",
+      "Hi-Res Audio Certified",
+      "35-hour playtime with quick charge"
+    ],
+    "stock": 18,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P1003",
+    "name": "BassBeats Studio Wireless",
+    "category": "headphones",
+    "price": 4500,
+    "brand": "BassBeats",
+    "description": "Studio-grade wireless monitor headphones for audio enthusiasts and creators.",
+    "features": [
+      "Custom 50mm dynamic drivers",
+      "Ultra-low latency mode",
+      "50-hour playback",
+      "Dual device pairing"
+    ],
+    "stock": 12,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P1004",
+    "name": "ProBook X15 Laptop",
+    "category": "laptops",
+    "price": 58999,
+    "brand": "TechNova",
+    "description": "High-performance laptop optimized for software development, data science, and multitasking.",
+    "features": [
+      "Intel Core i7 13th Gen (10 cores)",
+      "16GB DDR5 5200MHz RAM",
+      "512GB NVMe M.2 SSD",
+      "15.6-inch FHD Anti-glare display",
+      "Backlit keyboard with dedicated numeric pad"
+    ],
+    "stock": 8,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P1005",
+    "name": "CodeMaster DevBook 14",
+    "category": "laptops",
+    "price": 49999,
+    "brand": "DevTech",
+    "description": "Lightweight developer-focused laptop with great battery life and full Linux support.",
+    "features": [
+      "AMD Ryzen 7 7730U (8 cores / 16 threads)",
+      "16GB LPDDR4X RAM",
+      "1TB PCIe 4.0 SSD",
+      "14-inch 2.2K 100% sRGB display",
+      "Up to 12 hours real-world battery life"
+    ],
+    "stock": 15,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P1006",
+    "name": "Galaxy S24 Ultra Phone",
+    "category": "smartphones",
+    "price": 104999,
+    "brand": "Samsung",
+    "description": "Flagship smartphone featuring Galaxy AI and titanium frame.",
+    "features": [
+      "Snapdragon 8 Gen 3 for Galaxy",
+      "200MP Quad Telephoto Camera",
+      "6.8-inch Dynamic AMOLED 2X 120Hz",
+      "5000mAh Battery with 45W charging",
+      "Integrated S-Pen"
+    ],
+    "stock": 20,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P1007",
+    "name": "NovaLite 5G Smartphone",
+    "category": "smartphones",
+    "price": 14999,
+    "brand": "Nova",
+    "description": "Affordable 5G smartphone with smooth performance and sharp camera.",
+    "features": [
+      "6.5-inch 120Hz FHD+ Display",
+      "50MP AI Dual Camera",
+      "5000mAh battery with 33W Fast Charging",
+      "MediaTek Dimensity 6080 processor"
+    ],
+    "stock": 30,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P1008",
+    "name": "FitPulse Smartwatch 2",
+    "category": "smartwatches",
+    "price": 3499,
+    "brand": "FitPulse",
+    "description": "Fitness tracking smartwatch with AMOLED display and Bluetooth calling.",
+    "features": [
+      "1.43-inch AMOLED Always-On Display",
+      "Continuous SpO2 & Heart Rate Monitoring",
+      "100+ sports modes",
+      "IP68 water resistance",
+      "7-day typical battery life"
+    ],
+    "stock": 40,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P1009",
+    "name": "Mechanical Pro Keyboard RGB",
+    "category": "keyboards",
+    "price": 2999,
+    "brand": "KeyCraft",
+    "description": "Compact mechanical keyboard with hot-swappable switches and per-key RGB backlighting.",
+    "features": [
+      "Hot-swappable Red linear mechanical switches",
+      "Detachable Type-C braided cable",
+      "Full N-key rollover and anti-ghosting",
+      "PBT double-shot keycaps"
+    ],
+    "stock": 22,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P1010",
+    "name": "Precision Glide Wireless Mouse",
+    "category": "mice",
+    "price": 1299,
+    "brand": "LogiTech",
+    "description": "Ergonomic wireless productivity mouse with silent clicks and high precision.",
+    "features": [
+      "4000 DPI optical tracking",
+      "90% noise reduction silent clicks",
+      "18-month battery on single AA",
+      "Dual connectivity: 2.4GHz USB and Bluetooth"
+    ],
+    "stock": 50,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P1011",
+    "name": "TabPro 11 OLED Tablet",
+    "category": "tablets",
+    "price": 32999,
+    "brand": "SlateTech",
+    "description": "Versatile OLED tablet for productivity, note-taking, and multimedia consumption.",
+    "features": [
+      "11-inch 2.5K 90Hz OLED screen",
+      "8GB RAM + 256GB storage (expandable)",
+      "Pressure-sensitive active stylus included",
+      "Quad stereo speakers tuned by Dolby Atmos"
+    ],
+    "stock": 14,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P1012",
+    "name": "EchoBuds Air True Wireless",
+    "category": "headphones",
+    "price": 1899,
+    "brand": "SoundMax",
+    "description": "True wireless earbuds with punchy bass and pocketable charging case.",
+    "features": [
+      "Bluetooth 5.3 with instant pairing",
+      "IPX5 sweat and splash resistance",
+      "28 hours total playtime with case",
+      "Dual mic environmental noise cancellation for calls"
+    ],
+    "stock": 60,
+    "rating": 4.1
+  }
+]
